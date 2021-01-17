@@ -1,0 +1,14 @@
+.placeholder {
+    background-image: url(code.jpg);
+    font-size: 150%;
+    padding: 5em;
+}
+
+.placeholder:hover {
+    font-size: 200%;
+}
+p{
+    background-color: mediumaquamarine;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
